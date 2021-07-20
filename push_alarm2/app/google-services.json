@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121038148304",
+    "project_id": "aop-part3-chapter01-55a65",
+    "storage_bucket": "aop-part3-chapter01-55a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121038148304:android:96ec2884379b7334ed84d5",
+        "android_client_info": {
+          "package_name": "com.fastcampus.push_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121038148304-vstssh95kq93r5k74ek7lcqfpb3d6fpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEm3DsxA27SBoZows5YBDkyedazphZS7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121038148304-vstssh95kq93r5k74ek7lcqfpb3d6fpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
